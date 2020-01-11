@@ -1,3 +1,5 @@
+# 本仓库FORK自[forezp/SpringcloudConfig](https://github.com/forezp/SpringcloudConfig)
+
 
 >转载请标明出处： 
 > http://blog.csdn.net/forezp/article/details/70148833
